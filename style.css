@@ -609,23 +609,3 @@ footer {
   color: #ff004f;
 }
 
-.project.text-only {
-  background: #111;
-  min-height: 220px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.overlay.always-visible {
-  position: static;
-  opacity: 1;
-  background: transparent;
-  text-align: center;
-}
-
-.overlay .tech {
-  margin-top: 10px;
-  font-size: 14px;
-  color: #aaa;
-}
